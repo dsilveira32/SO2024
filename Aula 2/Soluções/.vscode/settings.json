@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/dtms/SO2024/Aula 2/Soluções/output",
+            "binaryPath": "/home/dtms/SO2024/Aula 2/Soluções/output/main",
+            "binaryArgs": []
+        }
+    ]
+}
